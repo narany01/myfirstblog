@@ -1,0 +1,10 @@
+---
+title: test
+author: narany
+date: '2024-06-19'
+slug: test
+categories:
+  - R
+tags: []
+---
+this is test

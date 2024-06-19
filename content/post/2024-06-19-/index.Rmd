@@ -1,0 +1,11 @@
+---
+title: 데이터분석
+author: narany
+date: '2024-06-19'
+slug: 데이터분석
+categories:
+  - R
+tags: []
+---
+
+저의 처음 포스트입니다.
